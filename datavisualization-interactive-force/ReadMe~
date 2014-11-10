@@ -1,0 +1,5 @@
+I've tried many other json data.Unfortunately,Some are failed to visualize,left some unknown faults.So I use the sample data to demonstrate interactive force visualization.
+
+To run the force.html,if you work under the linux OS,a quick start goes like this:open terminal at your project directory,then print in the command--"python -m SimpleHTTPServer 8888 &" to excute,type "localhost:8888/force.html" in your browser,you will get what you want.
+
+if your OS is windows,the suggestion is download webstorm.
