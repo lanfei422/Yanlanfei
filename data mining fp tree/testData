@@ -1,0 +1,20 @@
+t1 5 item1 item3 item5 item6 item9
+t2 4 item1 item2 item4 item6
+t3 5 item2 item3 item6 item7 item12
+t4 3 item1 item2 item3
+t5 4 item2 item4 item7 item8
+t6 7 item3 item5 item7 item8 item9 item11 item12
+t7 9 item4 item6 item9 item14 item15 item16 item17 item18 item20
+t8 6 item4 item6 item8 item10 item11 item14
+t9 3 item8 item9 item10
+t10 4 item5 item9 item13 item14
+t11 5 item2 item3 item6 item8 item9
+t12 8 item1 item2 item5 item6 item9 item10 item16 item20
+t13 4 item9 item14 item15 item17
+t14 7 item3 item4 item7 item8 item10 item13 item19
+t15 5 item2 item4 item5 item7 item9
+t16 2 item7 item8
+t17 8 item2 item3 item6 item9 item11 item13 item17 item19
+t18 4 item2 item3 item7 item8
+t19 5 item6 item9 item13 item17 item19
+t20 4 item7 item8 item11 item15
